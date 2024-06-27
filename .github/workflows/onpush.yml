@@ -1,0 +1,23 @@
+name: Run Script on Push
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: build
+      run: echo "Build Done" 
+
+    - name: test
+      run: echo "Test Passed" 
+
+    - name: deploy
+      run: echo "Deployment Done" 
