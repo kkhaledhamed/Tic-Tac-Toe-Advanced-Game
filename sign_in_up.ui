@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Sign_In_Up</class>
+ <widget class="QDialog" name="Sign_In_Up">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>823</width>
+    <height>545</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">.Sign_In_Up {
+    background-image:url(./CSS/main.jpg);
+    opacity: 0.5; /* Adjust the opacity value as needed (0.0 to 1.0) */
+    /* Other background properties */
+    background-size: cover; /* Ensure the background image covers the entire element */
+    background-position: center; /* Center the background image */
+    /* Add more background properties as needed */
+	background-repeat: no-repeat;
+}
+</string>
+  </property>
+  <widget class="QWidget" name="layoutWidget">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>150</y>
+     <width>351</width>
+     <height>141</height>
+    </rect>
+   </property>
+   <layout class="QVBoxLayout" name="verticalLayout_2">
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout">
+      <item>
+       <widget class="QLabel" name="Username">
+        <property name="styleSheet">
+         <string notr="true">QLabel {
+    color:rgb(255, 0, 127);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, sans-serif; /* Example font family */
+	 qproperty-alignment: AlignCenter;
+}
+</string>
+        </property>
+        <property name="text">
+         <string>Username  :</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="UsernameInput">
+        <property name="font">
+         <font>
+          <pointsize>14</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgb(255, 255, 255)</string>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+    <item>
+     <layout class="QHBoxLayout" name="horizontalLayout_2">
+      <item>
+       <widget class="QLabel" name="label_2">
+        <property name="styleSheet">
+         <string notr="true">QLabel {
+    color:rgb(255, 0, 127);
+    font-size: 16px;
+    font-weight: bold;
+    font-family: Arial, sans-serif; /* Example font family */
+	 qproperty-alignment: AlignCenter;
+}
+</string>
+        </property>
+        <property name="text">
+         <string>Password  :</string>
+        </property>
+       </widget>
+      </item>
+      <item>
+       <widget class="QLineEdit" name="passwordinput">
+        <property name="font">
+         <font>
+          <pointsize>14</pointsize>
+          <bold>true</bold>
+         </font>
+        </property>
+        <property name="styleSheet">
+         <string notr="true">background-color:rgb(255, 255, 255);</string>
+        </property>
+        <property name="echoMode">
+         <enum>QLineEdit::Password</enum>
+        </property>
+       </widget>
+      </item>
+     </layout>
+    </item>
+   </layout>
+  </widget>
+  <widget class="QPushButton" name="PB_Login">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>300</y>
+     <width>269</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color: rgb(255, 170, 255);
+    color: rgb(170, 0, 127);
+    border: 2px white;
+    border-radius: 5px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
+QPushButton:pressed {
+    background-color: navy;
+    color: lightblue;
+}
+.MainWindow {
+    background-image:url(C:/Users/Spectra/Desktop/63148.jpg);
+    opacity: 0.5; /* Adjust the opacity value as needed (0.0 to 1.0) */
+    /* Other background properties */
+    background-size: cover; /* Ensure the background image covers the entire element */
+    background-position: center; /* Center the background image */
+    /* Add more background properties as needed */
+	background-repeat: no-repeat;
+}</string>
+   </property>
+   <property name="text">
+    <string>Log in</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>340</y>
+     <width>269</width>
+     <height>30</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color: rgb(170, 0, 127);
+    color: white;
+    border: 0px white;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
+QPushButton:pressed {
+    background-color: navy;
+    color: lightblue;
+}</string>
+   </property>
+   <property name="text">
+    <string>Return to welcome window</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

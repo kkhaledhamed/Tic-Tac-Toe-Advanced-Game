@@ -1,0 +1,45 @@
+For "Welcome" label:
+QLabel {
+    color: #ffffff; /* Text color */
+    font-size: 75px; /* Font size */
+    font-weight: bold; /* Font weight */
+    font-family: Arial, sans-serif; /* Font family */
+	border-radius : 20px;
+    padding: 20px; /* Padding */
+    background-color: #7566D5; /* Background color */
+    qproperty-alignment: AlignCenter; /* Text alignment */
+}
+
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+For the button label layout:
+QWidget {
+    background-color: #f0f0f0; /* Background color */
+}
+
+QLabel {
+    color: #ffffff; /* Text color */
+    font-size: 18px; /* Font size */
+    font-weight: bold; /* Font weight */
+    font-family: Arial, sans-serif; /* Font family */
+    border-radius: 5px; /* No border for the label */
+    padding: 10px; /* Padding */
+    background-color:  #7566D5; /* Background color */
+    qproperty-alignment: AlignCenter; /* Text alignment */
+}
+
+QPushButton {
+    color: white; /* Text color */
+    font-size: 18px; /* Font size */
+    font-weight: bold; /* Font weight */
+    font-family: Arial, sans-serif; /* Font family */
+    border-radius: 5px; /* No border for the button */
+    padding: 10px 20px; /* Padding */
+    background-color: #007bff; /* Button background color */
+
+}
+
+QPushButton:hover {
+    background-color: #0056b3; /* Hover background color */
+}

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Profile</class>
+ <widget class="QDialog" name="Profile">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1007</width>
+    <height>706</height>
+   </rect>
+  </property>
+  <property name="font">
+   <font>
+    <bold>true</bold>
+   </font>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">.Profile {
+    background-image:url(./CSS/main.jpg);
+    opacity: 0.5; /* Adjust the opacity value as needed (0.0 to 1.0) */
+    /* Other background properties */
+    background-size: cover; /* Ensure the background image covers the entire element */
+    background-position: center; /* Center the background image */
+    /* Add more background properties as needed */
+	background-repeat: no-repeat;
+}
+</string>
+  </property>
+  <widget class="QLabel" name="Header">
+   <property name="geometry">
+    <rect>
+     <x>90</x>
+     <y>30</y>
+     <width>541</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <pointsize>30</pointsize>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color:rgb(255, 0, 127);</string>
+   </property>
+   <property name="text">
+    <string>Welcome</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ToWelcome">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>550</y>
+     <width>241</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color:rgb(170, 0, 127) ;
+    color: rgb(255, 255, 255);
+  
+	font: 700 12pt &quot;Segoe UI&quot;;
+    border: 0px solid black;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
+QPushButton:pressed {
+    background-color: navy;
+    color: lightblue;
+}</string>
+   </property>
+   <property name="text">
+    <string>Return to wlecome window</string>
+   </property>
+  </widget>
+  <widget class="QGroupBox" name="groupBox">
+   <property name="geometry">
+    <rect>
+     <x>130</x>
+     <y>130</y>
+     <width>651</width>
+     <height>391</height>
+    </rect>
+   </property>
+   <property name="title">
+    <string>History</string>
+   </property>
+   <widget class="QTableView" name="games_history">
+    <property name="geometry">
+     <rect>
+      <x>100</x>
+      <y>30</y>
+      <width>451</width>
+      <height>271</height>
+     </rect>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="game_history">
+    <property name="geometry">
+     <rect>
+      <x>190</x>
+      <y>330</y>
+      <width>271</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>See the game history</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QPushButton" name="EditAccountData">
+   <property name="geometry">
+    <rect>
+     <x>710</x>
+     <y>40</y>
+     <width>181</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color:rgb(255, 0, 127) ;
+    color: white;
+font: 700 12pt &quot;Segoe UI&quot;;
+    border: 0px solid black;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
+QPushButton:pressed {
+    background-color: navy;
+    color: lightblue;
+}</string>
+   </property>
+   <property name="text">
+    <string>Edit account data</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="ToNextGame">
+   <property name="geometry">
+    <rect>
+     <x>530</x>
+     <y>550</y>
+     <width>211</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QPushButton {
+    background-color:rgb(255, 170, 255) ;
+    color: rgb(170, 0, 127);
+  
+	font: 700 14pt &quot;Segoe UI&quot;;
+    border: 0px solid black;
+    border-radius: 0px;
+    padding: 5px;
+}
+
+QPushButton:hover {
+    background-color: lightblue;
+}
+QPushButton:pressed {
+    background-color: navy;
+    color: lightblue;
+}</string>
+   </property>
+   <property name="text">
+    <string>To the next game</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
