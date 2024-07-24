@@ -1,24 +1,23 @@
-## General Program Flow :
+# TIC TAC TOE Advanced Game 
+# Provided by SNAP DRAGONS Team (Khaled Hamed, Sarah Abdelatty, Ali Mohamed, Ahmed Amir)
+## Some Introduction Snippets 
+### General Program Flow :
 ![image](https://github.com/user-attachments/assets/af94d1ea-8268-4fce-9d08-c93de78e185b)
-## Complete flow with all possible cases :
+### Complete flow with all possible cases :
 ![image](https://github.com/user-attachments/assets/6a5f9248-51b0-428e-9672-2eac065a693a)
-## Use Case Model (Khaled Hamed) :
+### Use Case Model :
 ![image](https://github.com/user-attachments/assets/30ca1b23-cd3d-4d31-b932-7653c74c72b7)
-Author: Khaled Hamed
-Purpose: A complete overview of the whole system with an already a new account from the 
-start of the program start to run until the player ends playing one game without any exception in 
-the flow.  
-Priority: Very High. 
-Preconditions: Nothing. 
-Post conditions: Nothing. 
-Actors: Human + System 
-Extends: None. 
+### Some snippets from Game Design and Features :
+![image](https://github.com/user-attachments/assets/fbac8a6f-27ae-4409-b625-8f633f46ba6b)
+![image](https://github.com/user-attachments/assets/06b31627-bd3f-4566-a7d8-a6432940bdd8)
+### Whole System diagram from SDS :
+![image](https://github.com/user-attachments/assets/82882b12-cbc8-44cd-ac1f-90858d2b479b)
 ## For All Documentations :
-### SRS
+### SRS (Software Requirements Specification )
 https://drive.google.com/file/d/1kAak4CivCwnep0W_wGK6N691PDzOf7G-/view?usp=drive_link
-### SDS
+### SDS (Software Design Specification )
 https://drive.google.com/file/d/1Ui9dq2zaFnspPn5nz-LrRJoeu74jyVyg/view?usp=drive_link
-### Testing and storage usage 
+### Testing and storage usage (Game Design and Features)
 https://drive.google.com/file/d/1NHtsm1uLn90UgFJrc-6W0FRyTmvv-Ovt/view?usp=drive_link
 ## Snippets from our Game 
 ### Main Window
