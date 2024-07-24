@@ -1,3 +1,18 @@
+## General Program Flow :
+![image](https://github.com/user-attachments/assets/af94d1ea-8268-4fce-9d08-c93de78e185b)
+## Complete flow with all possible cases :
+![image](https://github.com/user-attachments/assets/6a5f9248-51b0-428e-9672-2eac065a693a)
+## Use Case Model (Khaled Hamed) :
+![image](https://github.com/user-attachments/assets/30ca1b23-cd3d-4d31-b932-7653c74c72b7)
+Author: Khaled Hamed
+Purpose: A complete overview of the whole system with an already a new account from the 
+start of the program start to run until the player ends playing one game without any exception in 
+the flow.  
+Priority: Very High. 
+Preconditions: Nothing. 
+Post conditions: Nothing. 
+Actors: Human + System 
+Extends: None. 
 ## For All Documentations :
 ### SRS
 https://drive.google.com/file/d/1kAak4CivCwnep0W_wGK6N691PDzOf7G-/view?usp=drive_link
