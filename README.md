@@ -1,9 +1,9 @@
 ## For All Documentations :
-## SRS
+### SRS
 https://drive.google.com/file/d/1kAak4CivCwnep0W_wGK6N691PDzOf7G-/view?usp=drive_link
-## SDS
+### SDS
 https://drive.google.com/file/d/1Ui9dq2zaFnspPn5nz-LrRJoeu74jyVyg/view?usp=drive_link
-## Testing and storage usage 
+### Testing and storage usage 
 https://drive.google.com/file/d/1NHtsm1uLn90UgFJrc-6W0FRyTmvv-Ovt/view?usp=drive_link
 ## Snippets from our Game 
 ### Main Window
