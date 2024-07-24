@@ -1,4 +1,30 @@
 # TIC TAC TOE Advanced Game 
+## Overview
+### This project is an advanced version of the classic Tic Tac Toe game, featuring user authentication, personalized game history, and a sophisticated AI opponent. The game supports both player-vs-player and player-vs-AI modes and is developed using C++. This project follows best practices in software engineering, including secure user management, rigorous testing, and professional version control workflows.
+## Objectives
+### Interactive Gameplay: Tic Tac Toe game with a user-friendly GUI.
+### User Management: User authentication to manage player profiles and game histories.
+### Intelligent AI Opponent
+### Quality Assurance: Ensured software quality through unit and integration testing.
+### Continuous Integration and Deployment: GitHub Actions for automated testing and deployment.
+## Core Components
+### Game Logic: Basic mechanics for two-player and player-vs-AI modes, including win/tie checks.
+### AI Opponent: Minimax algorithm with alpha-beta pruning for strategic AI moves.
+### GUI: User interface for game interaction and user session management.
+### User Authentication: Secure login and registration system with password hashing.
+### Game History: Save and view game histories with detailed session information.
+### Testing: Comprehensive unit and integration tests using Google Test.
+### CI/CD: Automated testing and deployment with GitHub Actions.
+## Implementation Details
+### Programming Language: C++ (Object-Oriented Programming)
+### Testing Framework: QT Test
+### Version Control: Git (GitHub)
+### Database: SQLite or custom file storage
+### Security: Secure hashing for passwords
+### GUI Framework: Qt libraries
+## Data Structures
+### Minimax Algorithm: Trees for AI decision-making
+### Others: Stacks, hashtable & Linked Lists
 ## Provided by SNAP DRAGONS Team :
 ### Ahmed Amir: https://github.com/AhmedGhoraib
 ### Sarah Abdelatty : https://github.com/SarahAbelatty
