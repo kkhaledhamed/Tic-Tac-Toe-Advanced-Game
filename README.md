@@ -29,6 +29,7 @@
 ### Ahmed Amir: https://github.com/AhmedGhoraib
 ### Sarah Abdelatty : https://github.com/SarahAbelatty
 ### Ali Mohamed : https://github.com/Ali-Mohamed-cairo
+### With Very Special Thanks to : https://github.com/FaresAtef1
 ## Some Introduction Snippets 
 ### General Program Flow :
 ![image](https://github.com/user-attachments/assets/af94d1ea-8268-4fce-9d08-c93de78e185b)
