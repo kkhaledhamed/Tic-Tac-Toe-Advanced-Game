@@ -1,7 +1,7 @@
 # TIC TAC TOE Advanced Game 
 # Provided by SNAP DRAGONS Team :
 ### Ahmed Amir: https://github.com/AhmedGhoraib
-### Sarah Abdelatty : 
+### Sarah Abdelatty : https://github.com/SarahAbelatty
 ### Ali Mohamed : 
 ## Some Introduction Snippets 
 ### General Program Flow :
