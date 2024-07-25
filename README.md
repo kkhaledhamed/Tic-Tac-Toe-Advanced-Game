@@ -13,7 +13,7 @@
 ### GUI: User interface for game interaction and user session management.
 ### User Authentication: Secure login and registration system with password hashing.
 ### Game History: Save and view game histories with detailed session information.
-### Testing: Comprehensive unit and integration tests using Google Test.
+### Testing: Comprehensive unit and integration tests using QT Test.
 ### CI/CD: Automated testing and deployment with GitHub Actions.
 ## Implementation Details
 ### Programming Language: C++ (Object-Oriented Programming)
