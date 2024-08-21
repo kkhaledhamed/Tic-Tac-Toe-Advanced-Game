@@ -44,11 +44,11 @@ Others: Stacks, hashtable & Linked Lists
 ![image](https://github.com/user-attachments/assets/82882b12-cbc8-44cd-ac1f-90858d2b479b)
 
 ## For All Documentations :
-SRS (Software Requirements Specification )
+##### SRS (Software Requirements Specification )
 https://drive.google.com/file/d/1kAak4CivCwnep0W_wGK6N691PDzOf7G-/view?usp=drive_link
-SDS (Software Design Specification )
+##### SDS (Software Design Specification )
 https://drive.google.com/file/d/1Ui9dq2zaFnspPn5nz-LrRJoeu74jyVyg/view?usp=drive_link
-Testing and storage usage (Game Design and Features)
+##### Testing and storage usage (Game Design and Features)
 https://drive.google.com/file/d/1NHtsm1uLn90UgFJrc-6W0FRyTmvv-Ovt/view?usp=drive_link
 
 ## Snippets from our Game 
