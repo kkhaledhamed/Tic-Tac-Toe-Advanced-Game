@@ -30,12 +30,6 @@ GUI Framework: Qt libraries
 Minimax Algorithm: Trees for AI decision-making
 Others: Stacks, hashtable & Linked Lists
 
-## Provided by SNAP DRAGONS Team :
-Ahmed Amir: https://github.com/AhmedGhoraib
-Sarah Abdelatty : https://github.com/SarahAbelatty
-Ali Mohamed: https://github.com/Ali-Mohamed-cairo
-With Very Special Thanks to: https://github.com/FaresAtef1
-
 ## Some Introduction Snippets 
 General Program Flow :
 ![image](https://github.com/user-attachments/assets/af94d1ea-8268-4fce-9d08-c93de78e185b)
@@ -75,3 +69,9 @@ Users Database:
 History Database:
 ![Screenshot 2024-06-27 041708](https://github.com/user-attachments/assets/5e708121-4840-44f0-8471-de28d9e66ca7)
 
+
+## Provided by SNAP DRAGONS Team :
+##### Ahmed Amir: https://github.com/AhmedGhoraib
+##### Sarah Abdelatty : https://github.com/SarahAbelatty
+##### Ali Mohamed: https://github.com/Ali-Mohamed-cairo
+##### With Very Special Thanks to: https://github.com/FaresAtef1
