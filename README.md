@@ -71,7 +71,7 @@ https://drive.google.com/file/d/1NHtsm1uLn90UgFJrc-6W0FRyTmvv-Ovt/view?usp=drive
 
 
 ## Provided by SNAP DRAGONS Team :
-##### Ahmed Amir: https://github.com/AhmedGhoraib
-##### Sarah Abdelatty : https://github.com/SarahAbelatty
-##### Ali Mohamed: https://github.com/Ali-Mohamed-cairo
-##### With Very Special Thanks to: https://github.com/FaresAtef1
+##### [Ahmed Amir](https://github.com/AhmedGhoraib)
+##### [Sarah Abdelatty](https://github.com/SarahAbelatty)
+##### [Ali Mohamed](https://github.com/Ali-Mohamed-cairo)
+##### With Very Special Thanks to [Fares Atef](https://github.com/FaresAtef1)
